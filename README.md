@@ -3,21 +3,16 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushalyajayasekare6&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaushalyajayasekare6&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
-</div>
 
----
 
 <img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF"/>
 
 ### 🚀 About Me
 - 🎓 **Undergraduate in ICT** at **University of Jaffna, Vavuniya Campus**
 - 💡 Passionate about **Software Development & Network Engineering**
-- ⚡ Hands-on experience in **networking, troubleshooting & software development**
-- 🌱 Constantly learning **new technologies** & **staying updated**
-- 🔍 Seeking **internships in Software/Network Engineering**
+- ⚡ Experience in **full-stack development and networking**
+- 🌱 Currently working with **MERN stack, Python, and Spring Boot**
+- 🔍 Seeking **internships in Software or Network Engineering**
 
 ---
 
@@ -28,12 +23,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-#### 🌐 Web Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### 🌐 Web & Full-Stack Development:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+#### 🎨 Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -47,11 +47,11 @@
 ---
 
 ### 🖧 Network Engineering Skills:
-- 🖥️ **Cisco Routers & Switches**
-- 🔌 **Routing & Switching (VLAN, NAT, ACLs, VPNs)**
-- 📡 **Network Security & Firewalls**
-- 🛠 **Cisco Packet Tracer** & Real Network Configurations
-- 📶 **IP Addressing & Subnetting**
+- 🖥️ Cisco Routers & Switches
+- 🔌 Routing & Switching (VLAN, NAT, ACLs, VPNs)
+- 📡 Network Security & Firewalls
+- 🛠 Cisco Packet Tracer & real network configurations
+- 📶 IP Addressing & Subnetting
 
 ---
 
@@ -61,14 +61,8 @@
   <a href="mailto:kaushalyajayasekare6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/kaushalya-jayasekare-05941a298?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjmFnDjIgSfqyktc3ctWhjA%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/kaushalya-jayasekare-05941a298" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/share/1AQBQ34THs/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook" />
-  </a>
-  <a href="tel:+94761045829">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="Phone" />
   </a>
   <a href="https://github.com/Kaushalyajayasekare6" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
@@ -77,4 +71,4 @@
 
 ---
 
-⭐ **Check out my GitHub projects!** 🚀🔥
+⭐ **Check out my projects and feel free to connect!** 🚀
